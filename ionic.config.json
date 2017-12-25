@@ -1,0 +1,8 @@
+{
+  "name": "feelixApp",
+  "app_id": "3de36efb",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
